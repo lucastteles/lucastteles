@@ -1,5 +1,5 @@
 ## Olá! Eu sou Lucas Teles
-- Estudante de Análise e Desenvolvimento de  SIstemeas
+- Analista e Desenvolvedor de  SIstemeas
 - Desenvolvedor Back-End
 - SQL | C# | .Net
 
