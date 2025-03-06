@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas Teles
 - Analista e Desenvolvedor de  SIstemeas
 - Desenvolvedor Front-End
-- HTML | CSS | Figma | Javascript | SQL | C# | .Net 
+- HTML | CSS | Angular | Figma | Javascript | SQL | C# | .Net 
 
 <div align="center">
   <a href="https://beacons.ai/lucastteles">
